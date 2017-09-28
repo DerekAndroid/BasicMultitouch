@@ -1,0 +1,1 @@
+adb shell am start -a android.intent.action.MAIN -n com.example.android.basicmultitouch/com.example.android.basicmultitouch.MainActivity --ei Detect_Points 10 --ei Time_Out_Sec 10
